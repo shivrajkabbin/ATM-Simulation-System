@@ -1,2 +1,3 @@
 # ATM-Simulation-System
-![image](https://github.com/shivrajkabbin/ATM-Simulation-System/assets/136077550/de3a1549-09ae-4b0d-a1c3-bdaa3dfa5ef9)
+![image](https://github.com/shivrajkabbin/ATM-Simulation-System/assets/136077550/7ce6ae70-2197-4811-a03a-65f2c66057d6)
+
